@@ -9,3 +9,6 @@ The License Plate Recognition (LPR) System is a Python-based application designe
 2. **Character Recognition**: Once the characters are segmented, the system utilizes template matching to recognize each character. Template matching involves comparing each character candidate with predefined templates to determine the best match.
 
 3. **Visualization**: Throughout the process, the system provides visual feedback by drawing rectangles around detected characters and displaying the matched templates. This aids in understanding the detection and recognition results.
+
+### Video
+https://www.youtube.com/watch?v=jauZYPxVKFI
