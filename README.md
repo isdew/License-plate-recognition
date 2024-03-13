@@ -10,5 +10,6 @@ The License Plate Recognition (LPR) System is a Python-based application designe
 
 3. **Visualization**: Throughout the process, the system provides visual feedback by drawing rectangles around detected characters and displaying the matched templates. This aids in understanding the detection and recognition results.
 
-### Video
-https://www.youtube.com/watch?v=jauZYPxVKFI
+## Presentation Video
+
+[![License Plate Recognition Presentation](http://img.youtube.com/vi/jauZYPxVKFI/0.jpg)](http://www.youtube.com/watch?v=jauZYPxVKFI)
